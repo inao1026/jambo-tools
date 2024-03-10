@@ -11,8 +11,11 @@ Install Jambo Tools using npm:
 Create the env file in the root directory
 .env:
 PRIVATE_KEY=
+
 CONTRACT_ADDRESS=
+
 ABI_FILE_PATH=
+
 WEB3_PROVIDER=
 
 ```bash
