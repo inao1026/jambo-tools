@@ -1,0 +1,31 @@
+{
+  "name": "jambo-tools",
+  "version": "1.0.0",
+  "description": "Web3 Utility Gadget.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inao1026/jambo-tools.git"
+  },
+  "keywords": [
+    "web3",
+    "utility",
+    "ethers",
+    "blockchain"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inao1026/jambo-tools/issues"
+  },
+  "homepage": "https://github.com/inao1026/jambo-tools#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2"
+  }
+}
