@@ -10,6 +10,7 @@ Install Jambo Tools using npm:
 
 Create the env file in the root directory
 .env:
+
 PRIVATE_KEY=
 
 CONTRACT_ADDRESS=
